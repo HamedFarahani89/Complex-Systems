@@ -13,6 +13,6 @@ In probability theory, fractional Brownian motion (fBm), also called a fractal B
 
 fBm is a continuous-time Gaussian process BH(t) on [0, T], that starts at zero, has expectation zero for all t in [0, T], and has the following covariance function:
 
-![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/914fd4046e7a501aba142e475493c40be2888036")
+![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/914fd4046e7a501aba142e475493c40be2888036)
 
 [you can check its Wikipedia out  ](https://en.wikipedia.org/wiki/Fractional_Brownian_motion#:~:text=In%20probability%20theory%2C%20fractional%20Brownian,fBm%20need%20not%20be%20independent.)
