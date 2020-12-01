@@ -7,7 +7,7 @@ The Weierstrass function is continuous on the whole domain, though non-different
 
 [you can check its Wikipedia out  ](https://en.wikipedia.org/wiki/Weierstrass_function)
 
-#Fractional Brownian motion
+# Fractional Brownian motion
 
 In probability theory, fractional Brownian motion (fBm), also called a fractal Brownian motion, is a generalization of Brownian motion.
 
