@@ -1,7 +1,0 @@
-DFA algorithm:
-1.  Mean-Centred cumulative sum
-2.  Epoches
-3.  Detrend
-4.  Root mean square
-5.  Repeat for each scale
-6.  Compute linear fit between log-scale and log-RMS   
