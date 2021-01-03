@@ -11,9 +11,9 @@ hierarchically called complex systems. decomposition startegy does not work to g
 Peng et al. introduced DFA in 1994 in a [paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.49.1685)
 
 # Multifractal Detrended Fluctuation Analysis
-suggest this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437102013833)
+suggested [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437102013833)
 
 # Multifractal Chhabrajensen
-suggest this [paper](https://www.frontiersin.org/articles/10.3389/fphys.2018.01767/full)
+suggested [paper](https://www.frontiersin.org/articles/10.3389/fphys.2018.01767/full)
 # Higuchi
-suggest this [paper](https://www.sciencedirect.com/science/article/abs/pii/0167278988900814)
+suggested [paper](https://www.sciencedirect.com/science/article/abs/pii/0167278988900814)
