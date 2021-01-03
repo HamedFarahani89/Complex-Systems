@@ -8,6 +8,7 @@ hierarchically called complex systems. decomposition startegy does not work to g
 # This repository contains:
 
 # Detrended Fluctuation Analysis
+Peng et al. introduced DFA in 1994 in a paper (https://journals.aps.org/pre/abstract/10.1103/PhysRevE.49.1685)
 
 # Multifractal Detrended Fluctuation Analysis
 
