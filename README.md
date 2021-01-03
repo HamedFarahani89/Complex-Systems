@@ -15,5 +15,6 @@ suggested [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437
 
 # Multifractal Chhabrajensen
 suggested [paper](https://www.frontiersin.org/articles/10.3389/fphys.2018.01767/full)
+
 # Higuchi
-suggested [paper](https://www.sciencedirect.com/science/article/abs/pii/0167278988900814)
+T Higuchi introduced this method in 1988 in this [paper](https://www.sciencedirect.com/science/article/abs/pii/0167278988900814)
