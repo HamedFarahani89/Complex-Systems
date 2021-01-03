@@ -12,3 +12,6 @@ hierarchically called complex systems. decomposition startegy does not work to g
 # Multifractal Detrended Fluctuation Analysis
 
 # Multifractal Chhabrajensen
+
+# Higuchi
+
