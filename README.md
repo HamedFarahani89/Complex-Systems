@@ -18,3 +18,6 @@ suggested [paper](https://www.frontiersin.org/articles/10.3389/fphys.2018.01767/
 
 # Higuchi
 T Higuchi introduced this method in 1988 in this [paper](https://www.sciencedirect.com/science/article/abs/pii/0167278988900814)
+
+#Chhabra, A. & Jensen, R.
+Chhabra, A. & Jensen, R., 1989. Direct determination of the f(α) singularity spectrum.[paper](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.40.5284)
