@@ -13,11 +13,11 @@ Peng et al. introduced DFA in 1994 in a [paper](https://journals.aps.org/pre/abs
 # Multifractal Detrended Fluctuation Analysis
 suggested [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437102013833)
 
-# Multifractal Chhabrajensen
-suggested [paper](https://www.frontiersin.org/articles/10.3389/fphys.2018.01767/full)
 
 # Higuchi
 T Higuchi introduced this method in 1988 in this [paper](https://www.sciencedirect.com/science/article/abs/pii/0167278988900814)
 
 # ChhabraJensen
 Chhabra, A. & Jensen, R., 1989. Direct determination of the f(α) singularity spectrum.[paper](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.40.5284)
+
+suggested [paper](https://www.frontiersin.org/articles/10.3389/fphys.2018.01767/full)
